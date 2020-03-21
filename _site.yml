@@ -12,6 +12,6 @@ navbar:
                           href: distill.html
 output:
     html_document:
-        theme: readable
+        theme: yeti
         highlight: haddock
         df_print: paged
