@@ -1,5 +1,8 @@
 ---
 title: "Distilleries Fighting COVID"
+output: 
+  html_document:
+    theme: yeti
 ---
 
 Here is a map of distilleries fighting covid!!
