@@ -1,0 +1,9 @@
+---
+title: "Distilleries Fighting COVID"
+---
+
+Here is a map of distilleries fighting covid!!
+
+Here is some text describing it and what this can be used for to help hospitals!
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1nJiPDbuiekMvNwOnbTdM3XRWOEQUrbSz" width="640" height="480"></iframe>
