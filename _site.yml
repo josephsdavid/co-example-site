@@ -1,0 +1,17 @@
+name: "Covid research"
+output_dir: "."
+navbar: 
+        title: "Things"
+        type: inverse
+        left:
+                - text: "Home"
+                  href: index.html
+                - text: "Supplies"
+                  menu:
+                        - text: "Distilleries"
+                          href: distill.html
+output:
+    html_document:
+        theme: readable
+        highlight: haddock
+        df_print: paged
